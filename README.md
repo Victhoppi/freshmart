@@ -1,2 +1,3 @@
 # freshmart
-build ypu projects
+build your projects
+spelling software development
